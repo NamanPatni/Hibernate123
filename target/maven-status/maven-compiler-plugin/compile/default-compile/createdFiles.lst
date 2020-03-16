@@ -1,3 +1,3 @@
-beans/Student.class
-beans/Course.class
-test/Client.class
+beans\Course.class
+test\Client.class
+beans\Student.class
